@@ -21,6 +21,10 @@ body {
   margin: 0;
 }
 
+p {
+  font-family: "Open Sans";
+}
+
 .watermelon {
   background-color: #e97065;
 }
@@ -33,7 +37,7 @@ body {
   background-color: #fbd25e;
 }
 
-.starfruit h2{
+.starfruit h2 {
   font-family: "Gravitas One", serif;
 }
 
@@ -41,6 +45,6 @@ body {
   background-color: #e86033;
 }
 
-.persimmon h2{
+.persimmon h2 {
   font-family: Comfortaa, serif;
 }
