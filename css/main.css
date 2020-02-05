@@ -21,11 +21,11 @@ body {
   margin: 0;
 }
 
-.Watermelon {
-  background-color: #97065;
+.watermelon {
+  background-color: #e97065;
 }
 
-.Watermelon h2 {
+.watermelon h2 {
   font-family: "Rametto One", serif;
 }
 
@@ -37,10 +37,10 @@ body {
   font-family: "Gravitas One", serif;
 }
 
-.persimmont {
+.persimmon {
   background-color: #e86033;
 }
 
-.persimmont h2{
+.persimmon h2{
   font-family: "Comfortaa, serif", serif;
 }
